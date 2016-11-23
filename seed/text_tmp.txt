@@ -1,0 +1,20 @@
+var products = [
+    new Product({
+        imagePath: 'http://orig08.deviantart.net/e8a8/f/2015/112/f/c/icon_starcraft_ii___wings_of_liberty_by_alexielios-d8qnh9v.png',
+        title: 'Starcraft II. Wings of Liberty',
+        description: 'A military science fiction real-time strategy video game developed and published by Blizzard Entertainment',
+        price: 12
+    }),
+    new Product({
+        imagePath: 'http://orig08.deviantart.net/c02a/f/2015/112/d/b/icon_starcraft_ii___heart_of_the_swarm_by_alexielios-d8qnha5.png',
+        title: 'Starcraft II. Heart of the Swarm',
+        description: 'A military science fiction real-time strategy video game developed and published by Blizzard Entertainment',
+        price: 12
+    }),
+    new Product({
+        imagePath: 'http://orig12.deviantart.net/9be9/f/2015/112/2/4/icon_starcraft_ii___legacy_of_the_void_by_alexielios-d8qnhaf.png',
+        title: 'Starcraft II. Legacy of the Void',
+        description: 'A military science fiction real-time strategy video game developed and published by Blizzard Entertainment',
+        price: 12
+    }),
+];
